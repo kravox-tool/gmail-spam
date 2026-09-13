@@ -4,12 +4,15 @@ Spam a un Gmail
 ------
 ```
 # clonar el repo
+----------------
 git clone https://github.com/kravox-tool/gmail-spam.git
 
 
-# entrar al repo 
+# entrar al repo
+--------------
 cd gmail-spam
 
 
-# ejecutar 
+# ejecutar
+-----------
 python gmail.py
