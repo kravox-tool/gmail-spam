@@ -1,0 +1,2 @@
+# Este script utiliza librerías estándar de Python (smtplib, email, os, time).
+# No requiere dependencias externas adicionales.
