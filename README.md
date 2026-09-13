@@ -1,10 +1,10 @@
-# gmail-spam
+`gmail-spam`
 Spam a un Gmail 
 
-
-
+------
+```
 # clonar el repo
-git clone
+git clone https://github.com/kravox-tool/gmail-spam.git
 
 
 # entrar al repo 
